@@ -18,6 +18,6 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
-## Estutante de Análise de sistemas</br>
+## Estudante de Análise de sistemas</br>
 
 Eu sou Felipe, um estudante dedicado de análise e desenvolvimento de sistemas, com uma paixão especial pelo desenvolvimento front-end. Destaco-me por minha habilidade em criar interfaces elegantes e funcionais para os usuários, utilizando tecnologias como HTML, CSS e JavaScript. Atualmente, estou focado em aprimorar minhas habilidades nessa área. No entanto, também tenho planos de expandir meu conhecimento para incluir banco de dados no futuro, reconhecendo a importância dessa habilidade para minha carreira como desenvolvedor.
