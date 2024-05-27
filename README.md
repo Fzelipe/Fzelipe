@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feehlz/?igsh=MTV4NnI3azNlNjA4Nw%3D%3D)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fzelipe&show_icons=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## Tecnologias que uso no meu dia
 
 
